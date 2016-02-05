@@ -1,3 +1,5 @@
-test
-test
-test
+<?php
+
+echo "test";
+
+?>
